@@ -1,3 +1,5 @@
+/*Configurações do meu perfil GitHub*/
+
 ### Olá, eu sou o Thiago Pessoa 👋
 
 - 🔭 Atualmente trabalhando como desenvolvedor front end
