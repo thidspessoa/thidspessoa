@@ -1,4 +1,3 @@
-/*Configurações do meu perfil GitHub*/
 
 ### Olá, eu sou o Thiago Pessoa 👋
 
