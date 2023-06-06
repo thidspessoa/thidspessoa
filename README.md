@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Thiago Pessoa 👋
 
-- 🔭 Atualmente trabalhando como desenvolvedor front end
+- 🔭 Atualmente em busca de uma oportunidade como Desenvolvedor Web Front-End
 - 🌱 Estudando Java Script e React
 - 😄 Pronomes: ele/dele
 
