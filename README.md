@@ -1,8 +1,8 @@
 
 ### Olá, eu sou o Thiago Pessoa 👋
 
-- 🔭 Atualmente em busca de uma oportunidade como Desenvolvedor Web
-- 🌱 Estudando Java Script e React
+- 🔭 Atualmente em busca de uma oportunidade como Desenvolvedor Junior
+- 🌱 Estudando back-end
 - 😄 Pronomes: ele/dele
 
 ##
