@@ -15,28 +15,25 @@
 
 <!-- BOTÕES TOPO -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/thiago-pessoa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/filipimoraes1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Behance-B31217?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="mailto:filipiwms@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:thiagopessoa246@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
+  <a href="https://pessoa-tech.vercel.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
+  <a href="https://github.com/thidspessoa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=FF3B30" />
-  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=9B111E" />
-  <img src="https://img.shields.io/github/stars/FilipiWanderley?label=Stars&color=9B111E" />
+  <img src="https://komarev.com/ghpvc/?username=thidspessoa&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/thidspessoa?label=Followers&color=9B111E" />
+  <img src="https://img.shields.io/github/stars/thidspessoa?label=Stars&color=9B111E" />
 </p>
 
 <hr/>
