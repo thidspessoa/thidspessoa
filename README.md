@@ -6,7 +6,7 @@
 <!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thiago%20Pessoa&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&fontSize=56&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Thiago%20Pessoa&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&fontSize=56&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
 
