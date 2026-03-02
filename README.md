@@ -46,7 +46,7 @@
   <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
   <li><b>Frontend:</b> Foco na Experiência do usuário (UX/UI), acessibilidade (WCAG), componentização e gerenciamento de estados.</li>
   <li><b>Cloud & DevOps:</b> AWS, Docker e CI/CD para deploy previsível e resiliente.</li>
-  <li><b>Automação & IA:</b> n8n + Projetos com integrações via API e uso de IA generativa para produtividade.</li>
+  <li><b>Automação & IA:</b> scripts selenium + Projetos com integrações via API e uso de IA generativa para produtividade.</li>
   <li><b>Local:</b> Recife, Pernambuco — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
 
