@@ -154,7 +154,7 @@
 Cargos:
 - Engenheiro de Software
 - Desenvolvedor Full Stack
-- Backend (Java / Spring Boot)
+- Backend (Java / Spring Boot / Node JS)
 - Frontend (React / JavaScript / TypeScript)
 
 Modelo:
