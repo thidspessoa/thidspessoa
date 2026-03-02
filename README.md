@@ -41,43 +41,34 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Java 17+ (Spring Boot)</b> e <b>React/Next.js</b>.</li>
+  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Java 17+ (Spring Boot)</b> e <b>React (JavaScript e TypeScript)</b>.</li>
   <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
   <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
-  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
-  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
-  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
+  <li><b>Frontend:</b> Foco na Experiência do usuário (UX/UI), acessibilidade (WCAG), componentização e gerenciamento de estados.</li>
+  <li><b>Cloud & DevOps:</b> AWS, Docker e CI/CD para deploy previsível e resiliente.</li>
+  <li><b>Automação & IA:</b> n8n + Projetos com integrações via API e uso de IA generativa para produtividade.</li>
   <li><b>Local:</b> Recife, Pernambuco — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
-
-<pre>
-const filipimoraes = {
-  cargo: "Engenheiro de Software | Full Stack Developer",
-  local: "Recife, Pernambuco, Brasil",
-  foco: [
-    "Java 17+ e Spring Boot (APIs, microserviços, performance)",
-    "React e Next.js (Design Systems, UX, acessibilidade)",
-    "Cloud (AWS/Azure), Docker e CI/CD",
-    "Automação com n8n e integrações via APIs"
-  ],
-  objetivo:
-    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
-};
-</pre>
 
 <hr/>
 
 <h2>📊 Visão geral do GitHub</h2>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
-    alt="GitHub Stats"
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=thidspessoa&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=thidspessoa&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thidspessoa5&show_icons=true" />
+</picture>
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thidspessoa&layout=compact"
     alt="Linguagens mais usadas"
   />
 </p>
@@ -85,7 +76,7 @@ const filipimoraes = {
 <p align="center">
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=FilipiWanderley&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=thidspessoa&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
