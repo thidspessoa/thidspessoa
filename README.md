@@ -6,30 +6,28 @@
 <!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Thiago%20Pessoa&fontColor=FFFFFF&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=62&animation=twinkling&stroke=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
 
 <!-- FRASE “ANDANDO” (SVG ANIMADO) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Solucionando+problemas+de+negocio+em+soluções+escal%C3%A1vel+%E2%80%94."
-    alt="Texto animado"
-  />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=66&lines=Transformando+problemas+de+neg%C3%B3cio+em+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing SVG" /></a>
 
 <!-- BOTÕES TOPO -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-pessoa" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:thiagopessoa246@gmail.com" target="_blank" rel="noreferrer">
+  <a href="https://www.behance.net/filipimoraes1" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Behance-B31217?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:filipiwms@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://pessoa-tech.vercel.app" target="_blank" rel="noreferrer">
+  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/thidspessoa" target="_blank" rel="noreferrer">
+  <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
