@@ -66,14 +66,13 @@
   />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=thidspessoa5&show_icons=true" />
 </picture>
-<picture>
+<p align="center">
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thidspessoa&layout=compact&hide_border=true&theme=github_dark"
     alt="Linguagens mais usadas"
   />
-</picture>
-
+</p>
 <p align="center">
   <img
     height="170"
